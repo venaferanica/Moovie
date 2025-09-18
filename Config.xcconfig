@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  Moovie
+//
+//  Created by Vena Feranica on 17/09/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = 0ea9204fc861bf3c640a7f18cef3bc02
+BASE_API_URL = https:/$()/api.themoviedb.org/3
